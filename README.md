@@ -2,7 +2,7 @@
 this is a video class lab examples of GNU Autotools
 
 Udemy Video Class
-https://www.udemy.com/course/master-makefile-build-systems-in-linux-from-zero-to-pro/](https://www.udemy.com/course/gnu-autotools-handbook-from-scratch/
+https://www.udemy.com/course/gnu-autotools-handbook-from-scratch/
 
 All Udemy Video Classes
 https://www.udemy.com/user/classknowledgecoding/
